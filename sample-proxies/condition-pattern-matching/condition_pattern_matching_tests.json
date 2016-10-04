@@ -70,7 +70,7 @@
   {
     "TestId": "TC-APIGEE-COND_PTRN_MATCH-GET_APIKEY",
     "GroupId": "null",
-    "ProxyHost": "apigee-docs-test.e2e.apigee.net",
+    "ProxyHost": "null",
     "HttpMethod": "GET",
     "Uri": "/matchtest/cat",
     "QueryParam": "null",

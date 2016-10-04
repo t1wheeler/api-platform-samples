@@ -70,7 +70,7 @@
   {
     "TestId": "TC-APIGEE-BASE64ENCODER-ENCODE",
     "GroupId": "null",
-    "ProxyHost": "apigee-docs-test.e2e.apigee.net",
+    "ProxyHost": "null",
     "HttpMethod": "GET",
     "Uri": "/base64encoder",
     "QueryParam": "username=MyUserName;password=MyPassword",

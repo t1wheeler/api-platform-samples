@@ -87,7 +87,7 @@
   {
     "TestId": "TC-APIGEE-APIKEY-TRY_GOOD_APIKEY",
     "GroupId": "null",
-    "ProxyHost": "apigee-docs-test.e2e.apigee.net",
+    "ProxyHost": "null",
     "HttpMethod": "GET",
     "Uri": "/mocktarget_key",
     "QueryParam": "apikey=[TC-APIGEE-APIKEY-GET_APIKEY]@consumerKey",
@@ -104,7 +104,7 @@
   {
     "TestId": "TC-APIGEE-APIKEY-TRY_BAD_APIKEY",
     "GroupId": "null",
-    "ProxyHost": "apigee-docs-test.e2e.apigee.net",
+    "ProxyHost": "null",
     "HttpMethod": "GET",
     "Uri": "/mocktarget_key",
     "QueryParam": "apikey=ZZZZZZZZZZZZZZ",
