@@ -72,7 +72,7 @@
     "GroupId": "null",
     "ProxyHost": "null",
     "HttpMethod": "GET",
-    "Uri": "/base64encoder",
+    "Uri": "https://apigee-docs-test.e2e.apigee.net/base64encoder",
     "QueryParam": "username=MyUserName;password=MyPassword",
     "Headers": "Accept=application/json;[Basic Auth]=hdas+func@apigee.com:Apigee123",
     "Body": "null",
